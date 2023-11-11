@@ -1,4 +1,4 @@
-## Summary: machine learning algorothms for unsupervised data
+## Summary: machine learning algorothms for unsupervised data (K-means and PCA) on Census Tracts for the San Diego (CA) metropolitan area
 
 1. K-means: 
     - Summary: This clustering algorithm involves sorting observations into groups without any prior idea about what the groups are, thus a unsupervised technique.
